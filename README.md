@@ -23,4 +23,3 @@ Connection closed.
 But the process is still running...
 ```
 
-⭐ Thanks for visiting my profile.
