@@ -468,7 +468,7 @@ Repeat.
 ## `14 // SYSTEM STATUS`
 
 ```text id="status"
-USER        : Danial
+USER        : Daniyal
 ROLE        : Computer Programming Student
 PRIMARY     : Python
 SYSTEM      : Linux / Windows
