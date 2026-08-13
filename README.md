@@ -1,8 +1,9 @@
 # `> whoami`
 
-```text
+```text id="j3xq2d"
 Danial
 Computer Programming Student
+
 Python • Linux • Networking • Cybersecurity
 ```
 
@@ -10,118 +11,486 @@ Python • Linux • Networking • Cybersecurity
 
 ---
 
-### `01 // ABOUT`
+## `01 // ABOUT`
 
-I'm a Computer Programming student interested in the intersection of **code, systems, networks, and security**.
+I'm a Computer Programming student focused on understanding how software, operating systems, networks, and security work together.
 
-I learn by building things, breaking things, and figuring out why they broke.
+I learn primarily through **hands-on practice** — building small tools, solving problems, breaking things, debugging them, and rebuilding them better.
 
-Currently exploring:
+My current path is centered around:
+
+```text id="6w9r4p"
+Programming
+    └── Python
+
+Systems
+    └── Linux
+        └── Shell / CLI
+
+Networking
+    └── TCP/IP
+        └── Services / Ports / Protocols
+
+Security
+    └── Network Security
+        └── Security Fundamentals
+```
+
+I prefer understanding the fundamentals before moving toward more advanced topics.
+
+---
+
+## `02 // CURRENT FOCUS`
+
+```text id="1x9b2k"
+[ ACTIVE ]
+
+→ Python
+→ Linux & Shell
+→ Networking
+→ Cybersecurity
+→ Automation
+→ Practical Projects
+```
+
+Currently, Python is my main programming language.
+
+I'm using it to build small utilities, automation scripts, security-related tools, and practical projects while strengthening my programming fundamentals.
+
+---
+
+## `03 // LANGUAGES`
+
+```text id="languages"
+Python
+████████████░░░░
+
+Bash / Shell
+███████░░░░░░░░
+
+PowerShell
+██████░░░░░░░░░
+```
+
+### Python
+
+My primary programming language.
+
+Currently working with:
+
+```text id="pytools"
+Variables
+Conditions
+Loops
+Functions
+Strings
+Lists / Dictionaries
+File Handling
+Exceptions
+Modules
+JSON
+SQLite
+Regular Expressions
+Sockets
+Hashing
+Automation
+```
+
+I'm especially interested in using Python for **networking, automation, security tooling, and backend development**.
+
+---
+
+## `04 // OPERATING SYSTEMS`
+
+### Linux
+
+Linux is a major part of my learning path.
+
+Current areas:
+
+```text id="linux"
+Shell
+File System
+Permissions
+Processes
+Users & Groups
+Networking
+SSH
+CLI Tools
+System Administration
+```
+
+I enjoy working from the terminal and learning how things work underneath the graphical interface.
+
+### Windows
+
+Daily development environment with:
+
+```text id="windows"
+PowerShell
+Command Line
+Git
+Python
+Virtual Environments
+VS Code
+```
+
+---
+
+## `05 // NETWORKING`
+
+My networking foundation is focused on understanding how systems communicate.
+
+```text id="network"
+TCP/IP
+IP Addressing
+Ports
+TCP / UDP
+DNS
+HTTP / HTTPS
+SSH
+Client / Server Architecture
+Network Services
+Basic Network Troubleshooting
+```
+
+Tools I've been practicing with:
+
+```text id="network-tools"
+Nmap
+Netcat
+OpenSSL
+SSH
+```
+
+I'm particularly interested in the relationship between **networking and security**.
+
+---
+
+## `06 // SECURITY`
+
+My cybersecurity journey is currently focused on fundamentals and practical experimentation.
+
+Areas I'm exploring:
+
+```text id="security"
+Network Security
+Linux Security
+Authentication
+Password Security
+Hashing
+File Integrity
+Network Services
+Port Scanning
+Log Analysis
+Security Automation
+```
+
+### Security Practice
+
+I've been practicing security concepts through hands-on environments and challenges such as:
+
+```text id="practice"
+OverTheWire
+└── Bandit
+
+Linux CLI
+└── File / Permission / Process / Network Operations
+
+Networking
+└── Port & Service Discovery
+
+Cryptography Basics
+└── Hashing / Encoding / TLS
+```
+
+---
+
+## `07 // TOOLBOX`
+
+```text id="tools"
+Languages
+├── Python
+├── Bash
+└── PowerShell
+
+Development
+├── VS Code
+├── Git
+└── GitHub
+
+Networking
+├── Nmap
+├── Netcat
+├── OpenSSL
+└── SSH
+
+Python
+├── venv
+├── hashlib
+├── socket
+├── json
+└── sqlite3
+
+Systems
+├── Linux
+└── Windows
+```
+
+---
+
+## `08 // PROJECTS`
+
+### `[01] Password Strength Checker`
+
+```text id="project1"
+Language : Python
+Type     : Security / CLI
+Status   : Completed
+```
+
+A simple password analysis tool that checks:
+
+```text
+✓ Length
+✓ Numbers
+✓ Uppercase Characters
+✓ Lowercase Characters
+✓ Special Characters
+✓ Strength Score
+```
+
+Built as one of my first practical Python security projects.
+
+---
+
+### `[02] Job Finder Bot`
+
+```text id="project2"
+Language : Python
+Platform : Telegram
+Type     : Automation / Bot
+Status   : In Development
+```
+
+A Telegram bot designed to collect and organize job opportunities from different sources.
+
+The project helped me practice:
 
 ```text
 Python
-Linux
-Networking
-Cybersecurity
+Telegram Bot Development
+Web Parsing
+SQLite
+Project Structure
+Error Handling
 Automation
 ```
 
 ---
 
-### `02 // STACK`
+### `[03] Python Exercise Repository`
+
+```text id="project3"
+Language : Python
+Type     : Learning / Practice
+Status   : Active
+```
+
+A collection of Python exercises and small programs created while progressing through the language.
+
+The goal isn't just to collect exercises.
+
+It's to document the process of becoming better at programming.
+
+---
+
+## `09 // SECURITY LAB`
+
+```text id="lab"
+OverTheWire / Bandit
+
+Level progression
+        ↓
+Linux commands
+        ↓
+File analysis
+        ↓
+Encoding / Decoding
+        ↓
+Compression
+        ↓
+SSH
+        ↓
+Networking
+        ↓
+TLS / SSL
+        ↓
+Service discovery
+```
+
+Some of the tools and commands I've practiced:
 
 ```text
-LANGUAGES
-└── Python
+ls
+cd
+cat
+find
+grep
+sort
+uniq
+strings
+file
+du
+base64
+tr
+xxd
+tar
+gzip
+bzip2
+mktemp
+cp
+mv
 
-SYSTEMS
-├── Linux
-└── Windows
-
-NETWORK
-├── TCP/IP
-├── Nmap
-└── Network Fundamentals
-
-TOOLS
-├── Git
-├── GitHub
-├── Bash
-├── PowerShell
-└── VS Code
+ssh
+nmap
+nc
+openssl
 ```
 
 ---
 
-### `03 // PROJECTS`
+## `10 // DEVELOPMENT WORKFLOW`
+
+My usual workflow looks something like:
 
 ```text
-[01] Password Strength Checker
-     └── Python / Password Analysis
-
-[02] Job Finder Bot
-     └── Python / Telegram / Automation
-
-[03] Python Exercises
-     └── Python / Problem Solving
-
-[04] ...
-     └── Something is always in development.
+Idea
+ ↓
+Build
+ ↓
+Break
+ ↓
+Debug
+ ↓
+Understand
+ ↓
+Refactor
+ ↓
+Document
+ ↓
+Git
+ ↓
+GitHub
 ```
+
+I try to avoid simply copying solutions.
+
+If something breaks, that's usually where the interesting part begins.
 
 ---
 
-### `04 // CURRENTLY`
+## `11 // CURRENT MISSION`
+
+```text id="mission"
+[████████████████░░░░]
+
+Build stronger Python fundamentals
+Improve Linux skills
+Strengthen networking knowledge
+Learn cybersecurity concepts
+Build practical security tools
+Create better GitHub projects
+```
+
+The long-term goal is to combine:
 
 ```text
-> learning python
-> practicing linux
-> studying networking
-> exploring cybersecurity
-> building projects
+Python
+   +
+Linux
+   +
+Networking
+   +
+Cybersecurity
 ```
+
+into practical, useful systems and tools.
 
 ---
 
-### `05 // PRINCIPLE`
+## `12 // ROADMAP`
 
-```text
-Understand.
-Build.
-Break.
-Debug.
+```text id="roadmap"
+Python Fundamentals
+        ↓
+Python Projects
+        ↓
+Linux & Shell
+        ↓
+Networking
+        ↓
+Python Networking
+        ↓
+Cybersecurity Fundamentals
+        ↓
+Security Automation
+        ↓
+Advanced Security Projects
+```
+
+One layer at a time.
+
+No shortcuts.
+
+---
+
+## `13 // PRINCIPLES`
+
+```text id="principles"
+Understand before using.
+
+Build before claiming.
+
+Break things in the lab.
+
+Read the error.
+
+Debug the cause.
+
+Document what you learn.
+
 Repeat.
 ```
 
 ---
 
-### `06 // LOG`
+## `14 // SYSTEM STATUS`
 
-```text
-2026
-├── Python
-├── Linux
-├── Networking
-└── Cybersecurity
-
-Status: ONLINE
+```text id="status"
+USER        : Danial
+ROLE        : Computer Programming Student
+PRIMARY     : Python
+SYSTEM      : Linux / Windows
+NETWORK     : Learning
+SECURITY    : Exploring
+STATUS      : Building
 ```
+
+```text id="terminal"
+$ echo "There is always another layer underneath."
+```
+
+> *The interesting part is usually hidden underneath.*
 
 ---
 
-```text
-$ echo "There is always something new to learn."
-```
-<h3 align="left">Languages and Tools:</h3>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
 ### `> exit`
 
-*The interesting part is usually hidden underneath.*
+```text id="exit"
+Connection closed.
 
+But the process is still running...
+```
 
-
-
+⭐ Thanks for visiting my profile.
