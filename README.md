@@ -2,9 +2,8 @@
 
 ```text id="u1x8k3"
 Daniyal
-Computer Programming Student
+Computer Programming Geek
 
-Python • Linux • Networking • Cybersecurity
 ```
 
 > *Learning how systems work — one layer at a time.*
