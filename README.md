@@ -1,6 +1,6 @@
 # `> whoami`
 
-```text id="j3xq2d"
+```text id="u1x8k3"
 Danial
 Computer Programming Student
 
@@ -13,27 +13,18 @@ Python • Linux • Networking • Cybersecurity
 
 ## `01 // ABOUT`
 
-I'm a Computer Programming student focused on understanding how software, operating systems, networks, and security work together.
+I'm a Computer Programming student interested in the intersection of **software, systems, networks, and security**.
 
-I learn primarily through **hands-on practice** — building small tools, solving problems, breaking things, debugging them, and rebuilding them better.
+I learn primarily through hands-on practice — building projects, experimenting with systems, solving problems, debugging, and understanding what happens underneath the surface.
 
-My current path is centered around:
+My current path is focused on:
 
-```text id="6w9r4p"
+```text id="e8w4q1"
 Programming
-    └── Python
-
 Systems
-    └── Linux
-        └── Shell / CLI
-
 Networking
-    └── TCP/IP
-        └── Services / Ports / Protocols
-
 Security
-    └── Network Security
-        └── Security Fundamentals
+Automation
 ```
 
 I prefer understanding the fundamentals before moving toward more advanced topics.
@@ -42,7 +33,7 @@ I prefer understanding the fundamentals before moving toward more advanced topic
 
 ## `02 // CURRENT FOCUS`
 
-```text id="1x9b2k"
+```text id="f9k2m6"
 [ ACTIVE ]
 
 → Python
@@ -53,171 +44,155 @@ I prefer understanding the fundamentals before moving toward more advanced topic
 → Practical Projects
 ```
 
-Currently, Python is my main programming language.
+Python is currently my main programming language.
 
-I'm using it to build small utilities, automation scripts, security-related tools, and practical projects while strengthening my programming fundamentals.
-
----
-
-## `03 // LANGUAGES`
-
-```text id="languages"
-Python
-████████████░░░░
-
-Bash / Shell
-███████░░░░░░░░
-
-PowerShell
-██████░░░░░░░░░
-```
-
-### Python
-
-My primary programming language.
-
-Currently working with:
-
-```text id="pytools"
-Variables
-Conditions
-Loops
-Functions
-Strings
-Lists / Dictionaries
-File Handling
-Exceptions
-Modules
-JSON
-SQLite
-Regular Expressions
-Sockets
-Hashing
-Automation
-```
-
-I'm especially interested in using Python for **networking, automation, security tooling, and backend development**.
+I'm using it to build practical projects and gradually explore its applications in **automation, networking, backend development, and security**.
 
 ---
 
-## `04 // OPERATING SYSTEMS`
+## `03 // LANGUAGES & ENVIRONMENT`
 
-### Linux
+```text id="m3v7p2"
+Languages
+├── Python
+├── Bash
+└── PowerShell
 
-Linux is a major part of my learning path.
+Operating Systems
+├── Linux
+└── Windows
 
-Current areas:
+Development
+├── VS Code
+├── Git
+└── GitHub
+```
 
-```text id="linux"
-Shell
-File System
-Permissions
-Processes
-Users & Groups
+---
+
+## `04 // NETWORKING`
+
+I'm interested in understanding how systems communicate and how network services operate.
+
+```text id="r7x2n5"
 Networking
-SSH
-CLI Tools
-System Administration
+├── TCP/IP
+├── Network Services
+├── Client / Server Architecture
+├── Ports & Protocols
+└── Network Security
 ```
 
-I enjoy working from the terminal and learning how things work underneath the graphical interface.
+Tools I use while exploring this area:
 
-### Windows
-
-Daily development environment with:
-
-```text id="windows"
-PowerShell
-Command Line
-Git
-Python
-Virtual Environments
-VS Code
-```
-
----
-
-## `05 // NETWORKING`
-
-My networking foundation is focused on understanding how systems communicate.
-
-```text id="network"
-TCP/IP
-IP Addressing
-Ports
-TCP / UDP
-DNS
-HTTP / HTTPS
-SSH
-Client / Server Architecture
-Network Services
-Basic Network Troubleshooting
-```
-
-Tools I've been practicing with:
-
-```text id="network-tools"
+```text id="t4m8q1"
 Nmap
 Netcat
 OpenSSL
 SSH
 ```
 
-I'm particularly interested in the relationship between **networking and security**.
+---
+
+## `05 // CYBERSECURITY`
+
+My cybersecurity journey is focused on understanding the fundamentals and gaining experience through practical experimentation.
+
+```text id="s8k3v6"
+Security
+├── Network Security
+├── Linux Security
+├── Authentication
+├── Password Security
+├── Hashing
+├── File Integrity
+├── Security Automation
+└── Security Labs
+```
+
+I'm particularly interested in the connection between **programming, operating systems, networking, and security**.
 
 ---
 
-## `06 // SECURITY`
+## `06 // SECURITY LAB`
 
-My cybersecurity journey is currently focused on fundamentals and practical experimentation.
+```text id="l2p7w4"
+Hands-on Practice
 
-Areas I'm exploring:
-
-```text id="security"
-Network Security
-Linux Security
-Authentication
-Password Security
-Hashing
-File Integrity
-Network Services
-Port Scanning
-Log Analysis
-Security Automation
-```
-
-### Security Practice
-
-I've been practicing security concepts through hands-on environments and challenges such as:
-
-```text id="practice"
 OverTheWire
 └── Bandit
 
-Linux CLI
-└── File / Permission / Process / Network Operations
+Linux
+└── Command Line & System Exploration
 
 Networking
 └── Port & Service Discovery
 
-Cryptography Basics
-└── Hashing / Encoding / TLS
+Security
+└── Practical Experiments
 ```
+
+Learning isn't just about reading.
+
+Sometimes the fastest way to understand a system is to interact with it.
 
 ---
 
-## `07 // TOOLBOX`
+## `07 // PROJECTS`
 
-```text id="tools"
-Languages
-├── Python
-├── Bash
-└── PowerShell
+### `[01] Password Strength Checker`
 
+```text id="p4x8m2"
+Python
+Security / CLI
+Completed
+```
+
+A lightweight command-line project for analyzing password characteristics and calculating a strength score.
+
+---
+
+### `[02] Job Finder Bot`
+
+```text id="q7n3v5"
+Python
+Telegram
+Automation
+In Development
+```
+
+A Telegram bot designed to collect and organize job opportunities from different sources.
+
+Built as a practical project to explore automation, data collection, databases, and bot development.
+
+---
+
+### `[03] Python Exercise Repository`
+
+```text id="w6k2r9"
+Python
+Learning / Practice
+Active
+```
+
+A collection of exercises and small projects created throughout my Python learning journey.
+
+The repository documents the process, not just the final result.
+
+---
+
+## `08 // TOOLBOX`
+
+```text id="c5m9x2"
 Development
+├── Python
 ├── VS Code
 ├── Git
 └── GitHub
+
+Systems
+├── Linux
+└── Windows
 
 Networking
 ├── Nmap
@@ -225,146 +200,15 @@ Networking
 ├── OpenSSL
 └── SSH
 
-Python
-├── venv
-├── hashlib
-├── socket
-├── json
-└── sqlite3
-
-Systems
-├── Linux
-└── Windows
-```
-
----
-
-## `08 // PROJECTS`
-
-### `[01] Password Strength Checker`
-
-```text id="project1"
-Language : Python
-Type     : Security / CLI
-Status   : Completed
-```
-
-A simple password analysis tool that checks:
-
-```text
-✓ Length
-✓ Numbers
-✓ Uppercase Characters
-✓ Lowercase Characters
-✓ Special Characters
-✓ Strength Score
-```
-
-Built as one of my first practical Python security projects.
-
----
-
-### `[02] Job Finder Bot`
-
-```text id="project2"
-Language : Python
-Platform : Telegram
-Type     : Automation / Bot
-Status   : In Development
-```
-
-A Telegram bot designed to collect and organize job opportunities from different sources.
-
-The project helped me practice:
-
-```text
-Python
-Telegram Bot Development
-Web Parsing
-SQLite
-Project Structure
-Error Handling
 Automation
+└── Python
 ```
 
 ---
 
-### `[03] Python Exercise Repository`
+## `09 // DEVELOPMENT WORKFLOW`
 
-```text id="project3"
-Language : Python
-Type     : Learning / Practice
-Status   : Active
-```
-
-A collection of Python exercises and small programs created while progressing through the language.
-
-The goal isn't just to collect exercises.
-
-It's to document the process of becoming better at programming.
-
----
-
-## `09 // SECURITY LAB`
-
-```text id="lab"
-OverTheWire / Bandit
-
-Level progression
-        ↓
-Linux commands
-        ↓
-File analysis
-        ↓
-Encoding / Decoding
-        ↓
-Compression
-        ↓
-SSH
-        ↓
-Networking
-        ↓
-TLS / SSL
-        ↓
-Service discovery
-```
-
-Some of the tools and commands I've practiced:
-
-```text
-ls
-cd
-cat
-find
-grep
-sort
-uniq
-strings
-file
-du
-base64
-tr
-xxd
-tar
-gzip
-bzip2
-mktemp
-cp
-mv
-
-ssh
-nmap
-nc
-openssl
-```
-
----
-
-## `10 // DEVELOPMENT WORKFLOW`
-
-My usual workflow looks something like:
-
-```text
+```text id="h3q7v1"
 Idea
  ↓
 Build
@@ -375,7 +219,7 @@ Debug
  ↓
 Understand
  ↓
-Refactor
+Improve
  ↓
 Document
  ↓
@@ -384,28 +228,28 @@ Git
 GitHub
 ```
 
-I try to avoid simply copying solutions.
+I don't try to avoid mistakes.
 
-If something breaks, that's usually where the interesting part begins.
+I try to understand them.
 
 ---
 
-## `11 // CURRENT MISSION`
+## `10 // CURRENT MISSION`
 
-```text id="mission"
+```text id="z8p4k2"
 [████████████████░░░░]
 
-Build stronger Python fundamentals
+Strengthen Python
 Improve Linux skills
-Strengthen networking knowledge
-Learn cybersecurity concepts
-Build practical security tools
-Create better GitHub projects
+Build networking knowledge
+Explore cybersecurity
+Build practical tools
+Create better projects
 ```
 
-The long-term goal is to combine:
+The long-term goal is to bring these areas together:
 
-```text
+```text id="n6x3r8"
 Python
    +
 Linux
@@ -415,28 +259,26 @@ Networking
 Cybersecurity
 ```
 
-into practical, useful systems and tools.
-
 ---
 
-## `12 // ROADMAP`
+## `11 // ROADMAP`
 
-```text id="roadmap"
-Python Fundamentals
-        ↓
-Python Projects
-        ↓
+```text id="b4m8q2"
+Python
+  ↓
+Practical Projects
+  ↓
 Linux & Shell
-        ↓
+  ↓
 Networking
-        ↓
+  ↓
 Python Networking
-        ↓
-Cybersecurity Fundamentals
-        ↓
+  ↓
+Cybersecurity
+  ↓
 Security Automation
-        ↓
-Advanced Security Projects
+  ↓
+Advanced Projects
 ```
 
 One layer at a time.
@@ -445,18 +287,18 @@ No shortcuts.
 
 ---
 
-## `13 // PRINCIPLES`
+## `12 // PRINCIPLES`
 
-```text id="principles"
+```text id="j7v2p5"
 Understand before using.
 
 Build before claiming.
 
-Break things in the lab.
+Experiment in the lab.
 
 Read the error.
 
-Debug the cause.
+Find the cause.
 
 Document what you learn.
 
@@ -465,19 +307,19 @@ Repeat.
 
 ---
 
-## `14 // SYSTEM STATUS`
+## `13 // SYSTEM STATUS`
 
-```text id="status"
-USER        : Daniyal
+```text id="x9k4m7"
+USER        : Danial
 ROLE        : Computer Programming Student
 PRIMARY     : Python
 SYSTEM      : Linux / Windows
-NETWORK     : Learning
+NETWORK     : Exploring
 SECURITY    : Exploring
 STATUS      : Building
 ```
 
-```text id="terminal"
+```text id="a2v6q8"
 $ echo "There is always another layer underneath."
 ```
 
@@ -487,7 +329,7 @@ $ echo "There is always another layer underneath."
 
 ### `> exit`
 
-```text id="exit"
+```text id="d5r8k1"
 Connection closed.
 
 But the process is still running...
