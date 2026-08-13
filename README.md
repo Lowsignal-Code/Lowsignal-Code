@@ -1,7 +1,7 @@
 # `> whoami`
 
 ```text id="u1x8k3"
-Danial
+Daniyal
 Computer Programming Student
 
 Python • Linux • Networking • Cybersecurity
