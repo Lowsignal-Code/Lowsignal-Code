@@ -4,46 +4,108 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  </p>
-💻 Computer Programming Student | Python | Linux | Networking | Cybersecurity
+# Hi there! 👋 I'm Danial
+
+### 💻 Computer Programming Student
 
 Welcome to my GitHub!
 
-I'm a Computer Programming student currently building my skills through hands-on projects and continuous learning.
+I'm a Computer Programming student who enjoys learning by building real projects and understanding how things work under the hood.
 
-My main focus is on Python, Linux, Networking, and Cybersecurity. I'm especially interested in understanding how systems and networks work and using programming to solve practical problems.
+My main interests are **Python, Linux, Networking, and Cybersecurity**. I'm currently building my programming fundamentals through practical projects and hands-on experiments.
 
-🚀 What I'm Learning
-🐍 Python Programming
-🐧 Linux & Shell
-🌐 Computer Networking
-🔐 Cybersecurity
-🤖 Automation & Scripting
-🛠️ Building practical projects
-📂 What You'll Find Here
+---
 
-This GitHub is basically my learning journey.
+## 🌱 Currently Learning
 
-You'll find:
+* 🐍 Python
+* 🐧 Linux & Shell
+* 🌐 Computer Networking
+* 🔐 Cybersecurity
+* 🛠️ Automation & Scripting
+* 💻 Software Development
 
-Python projects
-Cybersecurity-related tools
-Networking experiments
-Linux exercises
-Automation scripts
-Small projects built while learning
+---
 
-I believe the best way to learn programming is to build, break, debug, and build again.
+## 🛠 Tech Stack
 
-🎯 Current Goal
+### 💻 Programming
 
-My goal is to become a strong Python developer with a solid foundation in networking, Linux, and cybersecurity.
+* Python
 
-I'm learning step by step, building real projects, and documenting my progress along the way.
+### 🐧 Operating Systems
 
-📚 Currently Working On
+* Linux
+* Windows
+
+### 🌐 Networking
+
+* TCP/IP
+* Network Fundamentals
+* Network Troubleshooting
+* Nmap
+
+### 🔐 Cybersecurity
+
+* Security Fundamentals
+* Linux Security
+* Network Security
+* OverTheWire / CTF Practice
+
+### 🧰 Tools
+
+* Git
+* GitHub
+* VS Code
+* PowerShell
+* Bash
+
+---
+
+## 🚀 What You'll Find Here
+
+* 🐍 Python Projects
+* 🔐 Cybersecurity Tools & Experiments
+* 🌐 Networking Projects
+* 🐧 Linux Practice
+* 🤖 Automation Scripts
+* 📚 Learning Notes
+* 🧪 Small Experiments
+
+Every repository represents something I'm learning, building, or experimenting with.
+
+---
+
+## 🎯 Current Goals
+
+* Build a strong foundation in Python
+* Become comfortable with Linux and networking
+* Improve my problem-solving skills
+* Build practical cybersecurity projects
+* Learn by building real things
+* Gradually move from beginner projects to more advanced systems
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 Password Strength Checker
+
+A Python command-line tool that analyzes password characteristics and calculates a strength score.
+
+### 🌐 Port Scanner
+
+A lightweight Python networking project for checking open TCP ports and learning how network connections work.
+
+### 🤖 Job Finder Bot
+
+A Python Telegram bot for collecting and organizing job opportunities from different sources.
+
+---
+
+## 📈 My Learning Journey
+
+```text
 Python
 ██████░░░░  Learning & Building
 
@@ -51,19 +113,39 @@ Linux
 ██████░░░░  Learning & Practicing
 
 Networking
-███████░░░  Practicing
+██████░░░░  Practicing
 
 Cybersecurity
 █████░░░░░  Exploring
-🔥 Philosophy
+```
 
-Learn the fundamentals.
-Build real things.
-Break them.
-Fix them.
-Repeat.
+---
 
-Thanks for visiting my GitHub! ⭐
+## 🧠 My Approach
+
+> Learn the fundamentals.
+>
+> Build real projects.
+>
+> Break things.
+>
+> Debug them.
+>
+> Learn from the process.
+>
+> Repeat.
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to explore my repositories and follow along with my learning journey.
+
+I'm always interested in learning new things, building practical projects, and improving one step at a time.
+
+---
+
+⭐ Thanks for visiting my profile!
 
 
 <h3 align="left">Languages and Tools:</h3>
