@@ -52,8 +52,8 @@ Focus: understanding what runs beneath the surface —
 ## `> connect --with-me`
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>https://t.me/mrxatlas</a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>lowsignalcode@gmail.com</a>
 </p>
 
 <br/>
