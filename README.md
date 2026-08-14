@@ -41,8 +41,8 @@ Focus: understanding what runs beneath the surface —
 
 ## `> cat ./philosophy.txt`
 
-> *The interesting part is usually hidden underneath.*
-> I like tracing things back to where they actually happen — packets, processes, syscalls — not just the surface that everyone sees.
+> *“I like offending people, because I think people who get offended should be offended.”
+― Linus Torvalds
 
 <br/>
 
