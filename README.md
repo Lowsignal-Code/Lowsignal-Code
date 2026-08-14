@@ -20,20 +20,21 @@ Focus: understanding what runs beneath the surface —
 ## `> stack --status`
 
 ```text
-[========--------------------] Networking Theory       DONE
-[==============--------------] Linux (Bash Scripting)  ON HOLD
-[========------------------->] Python                  IN PROGRESS
+[========--------------------] being dead       DONE
+[==============--------------] Hope  ON HOLD
+[========------------------->] Practice                  IN PROGRESS
 ```
 
 <br/>
 
 ## `> ls ./currently`
 
-```text
-📡  Networking       → theory complete, moving toward hands-on labs
-🐧  Linux             → shell scripting learned, LPIC-1 in progress (paused)
-🐍  Python            → learning fundamentals — tuples, dicts, booleans
-```
+USER    PID  %CPU  %MEM  STATUS    COMMAND
+daniyal  01   99.9  87.3  running   debugging_life.sh
+daniyal  02   12.1   4.0  zombie    sleep_schedule
+daniyal  03    0.0   0.0  killed    social_life
+daniyal  04  100.0  99.9  running   stackoverflow_addiction
+daniyal  05    ---   ---  N/A       will_to_read_docs (never started)
 
 <br/>
 
@@ -44,12 +45,6 @@ Focus: understanding what runs beneath the surface —
 
 <br/>
 
-## `> stats --github`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 <br/>
 
