@@ -27,16 +27,16 @@ Focus: understanding what runs beneath the surface —
 
 <br/>
 
-## `> ls ./currently`
-<br/>
-```text
-USER    PID  %CPU  %MEM  STATUS    COMMAND
-daniyal  01   99.9  87.3  running   debugging_life.sh
-daniyal  02   12.1   4.0  zombie    sleep_schedule
-daniyal  03    0.0   0.0  killed    social_life
-daniyal  04  100.0  99.9  running   stackoverflow_addiction
-daniyal  05    ---   ---  N/A       will_to_read_docs (never started)
-```
+## `> ps aux | grep sanity`
+
+| PID | %CPU  | %MEM | STATUS  | COMMAND                        |
+|-----|-------|------|---------|---------------------------------|
+| 01  | 99.9  | 87.3 | running | `debugging_life.sh`            |
+| 02  | 12.1  | 4.0  | zombie  | `sleep_schedule`               |
+| 03  | 0.0   | 0.0  | killed  | `social_life`                  |
+| 04  | 100.0 | 99.9 | running | `stackoverflow_addiction`      |
+| 05  | ---   | ---  | N/A     | `will_to_read_docs` *(never started)* |
+
 <br/>
 
 ## `> cat ./philosophy.txt`
