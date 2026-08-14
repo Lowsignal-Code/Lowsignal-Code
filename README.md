@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniyal 👋</h1>
+<h1 align="center">Hi, I'm Daniyal👋, Known As LowSignal-Code </h1>
 <h3 align="center">Computer Programming Geek — Learning how systems work, one layer at a time.</h3>
 
 <br/>
