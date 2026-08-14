@@ -20,8 +20,8 @@ Focus: understanding what runs beneath the surface —
 ## `> stack --status`
 
 ```text
-[========--------------------] being dead       DONE
-[==============--------------] Hope  ON HOLD
+[========--------------------] being dead                DONE
+[==============--------------] Hope                      ON HOLD
 [========------------------->] Practice                  IN PROGRESS
 ```
 
